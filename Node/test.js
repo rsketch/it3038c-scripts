@@ -1,2 +1,6 @@
-const hello = "Hello from Node JS Variable!"
-console.log(Hello)
+const path = require("path");
+
+console.log("Using PATH module:");
+console.log('Hello from file ${path.basename(test.py)}');
+
+console.log('Process args: ${process.argv}')
