@@ -19,4 +19,4 @@ If you have spelled the name correctly you will get a description of the charact
 I am a huge fan of Marvel, I love learning about new or even old characters I did know about. This is a useful tool if you have ever wondered how Marvel would describe thier characters
 
 ### Resources 
-The resource I use for this project was a video from "Code First with Hala" on youtube: https://www.youtube.com/watch?v=CCwm9-7dy04&t=717s
+The resource I used for this project was a video from "Code First with Hala" on youtube: https://www.youtube.com/watch?v=CCwm9-7dy04&t=717s
